@@ -54,28 +54,18 @@
   <section class="card">
     <div class="eyebrow">Tugas 1</div>
     <h2 class="title">Formulir Registrasi Mahasiswa</h2>
-    <ul>
-      <li>XHTML 1.0 Strict, tabel + input</li>
-      <li>Radio (jenis kelamin), select (prodi), file upload</li>
-      <li>Checkbox minat &amp; textarea resume</li>
-    </ul>
     <div class="actions">
       <a class="btn primary" href="mahasiswa.xhtml">Buka Form</a>
-      <a class="btn" href="https://github.com/USERNAME/REPO/blob/main/mahasiswa.xhtml">Lihat Kode</a>
+      <a class="btn" href=""C:\Users\LENOVO\OneDrive\Dokumen\PWD240712990\docs\act5_formHotel2_12990.xml"">Lihat Kode</a>
     </div>
   </section>
 
   <section class="card">
     <div class="eyebrow">Tugas 2</div>
-    <h2 class="title">Reservation Hotel Room</h2>
-    <ul>
-      <li>Data pribadi, detail reservasi</li>
-      <li>Pilihan room &amp; bed type, breakfast</li>
-      <li>Metode pembayaran, tanggal check-in/out</li>
-    </ul>
+    <h2 class="title">Reservasi Hotel </h2>
     <div class="actions">
       <a class="btn primary" href="reservasi-hotel.xhtml">Buka Form</a>
-      <a class="btn" href="https://github.com/USERNAME/REPO/blob/main/reservasi-hotel.xhtml">Lihat Kode</a>
+      <a class="btn" href=""C:\Users\LENOVO\OneDrive\Dokumen\PWD240712990\docs\soal1\act5_form_12990.xml"">Lihat Kode</a>
     </div>
   </section>
 </main>

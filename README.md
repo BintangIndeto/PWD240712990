@@ -69,11 +69,5 @@
     </div>
   </section>
 </main>
-
-<footer>
-  Simpan file ini sebagai <code>index.html</code> di root repo yang sama dengan
-  <code>mahasiswa.xhtml</code> dan <code>reservasi-hotel.xhtml</code>.
-</footer>
-
 </body>
 </html>

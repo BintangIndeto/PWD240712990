@@ -2,16 +2,15 @@
 <html lang="id">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Bintang Indeto – Landing Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    :root{
-      --bg:#0f172a; --card:#111827; --ink:#e5e7eb; --muted:#9ca3af; --accent:#22d3ee;
-    }
+    :root{ --bg:#0f172a; --card:#111827; --ink:#e5e7eb; --muted:#9ca3af; --accent:#22d3ee; }
     *{box-sizing:border-box}
     body{
       margin:0; font:16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      color:var(--ink); background:radial-gradient(1200px 800px at 10% -10%, #1f2937, #0b1020), var(--bg);
+      color:var(--ink);
+      background:radial-gradient(1200px 800px at 10% -10%, #1f2937, #0b1020), var(--bg);
     }
     header{padding:48px 20px 16px; text-align:center}
     h1{margin:0 0 10px; font-size:clamp(28px,4vw,40px); letter-spacing:.4px}
@@ -22,8 +21,8 @@
     }
     .card{
       background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(0,0,0,.08));
-      border:1px solid rgba(255,255,255,.08);
-      border-radius:18px; padding:22px; box-shadow:0 10px 30px rgba(0,0,0,.25);
+      border:1px solid rgba(255,255,255,.08); border-radius:18px; padding:22px;
+      box-shadow:0 10px 30px rgba(0,0,0,.25);
       transition:.2s transform ease, .2s box-shadow ease, .2s border-color ease;
     }
     .card:hover{transform:translateY(-3px); box-shadow:0 16px 40px rgba(0,0,0,.35); border-color:rgba(255,255,255,.14)}
@@ -45,29 +44,39 @@
 <body>
 
 <header>
-  <h1>Tugas XHTML Form</h1>
-  <p class="lead"> silahkan klik ke link berikut untuk mengakses dua form tugas: <em>Formulir Registrasi Mahasiswa</em> dan
-    <em>Reservation Hotel Room</em>. Klik tombol di bawah untuk membuka halaman masing-masing.</p>
+  <h1>Bintang Indeto – Landing Page</h1>
+  <p class="lead">Klik tombol di bawah untuk membuka tugas yang sudah kamu upload ke repo.</p>
 </header>
 
 <main class="grid">
   <section class="card">
     <div class="eyebrow">Tugas 1</div>
-    <h2 class="title">Formulir Registrasi Mahasiswa</h2>
+    <h2 class="title">Form – Activity Week 5</h2>
+    <ul>
+      <li>File: <code>docs/soal1/act5_form_12990.xml</code></li>
+      <li>XHTML/XML form – input dasar</li>
+    </ul>
     <div class="actions">
-      <a class="btn primary" href="mahasiswa.xhtml">Buka Form</a>
-      <a class="btn" href=""C:\Users\LENOVO\OneDrive\Dokumen\PWD240712990\docs\act5_formHotel2_12990.xml"">Lihat Kode</a>
+      <!-- Link ke file di GitHub Pages / repo -->
+      <a class="btn primary" href="docs/soal1/act5_form_12990.xml">Buka Tugas 1</a>
+      <!-- Opsional: link ke kode di GitHub (ganti USERNAME & REPO) -->
+      <a class="btn" href="https://github.com/USERNAME/REPO/blob/main/docs/soal1/act5_form_12990.xml" target="_blank" rel="noopener">Lihat Kode</a>
     </div>
   </section>
 
   <section class="card">
     <div class="eyebrow">Tugas 2</div>
-    <h2 class="title">Reservasi Hotel </h2>
+    <h2 class="title">Reservation Hotel Room</h2>
+    <ul>
+      <li>File: <code>docs/act5_formHotel2_12990.xml</code></li>
+      <li>Data personal, kamar, bed type, breakfast</li>
+    </ul>
     <div class="actions">
-      <a class="btn primary" href="reservasi-hotel.xhtml">Buka Form</a>
-      <a class="btn" href=""C:\Users\LENOVO\OneDrive\Dokumen\PWD240712990\docs\soal1\act5_form_12990.xml"">Lihat Kode</a>
+      <a class="btn primary" href="docs/act5_formHotel2_12990.xml">Buka Tugas 2</a>
+      <a class="btn" href="https://github.com/USERNAME/REPO/blob/main/docs/act5_formHotel2_12990.xml" target="_blank" rel="noopener">Lihat Kode</a>
     </div>
   </section>
 </main>
+
 </body>
 </html>

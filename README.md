@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Demo XHTML Forms – Landing Page</title>
+  <title>Bintang Indeto – Landing Page</title>
   <style>
     :root{
       --bg:#0f172a; --card:#111827; --ink:#e5e7eb; --muted:#9ca3af; --accent:#22d3ee;
@@ -45,8 +45,8 @@
 <body>
 
 <header>
-  <h1>Demo XHTML Forms</h1>
-  <p class="lead">Halaman muka untuk mengakses dua form tugas: <em>Formulir Registrasi Mahasiswa</em> dan
+  <h1>Tugas XHTML Form</h1>
+  <p class="lead"> silahkan klik ke link berikut untuk mengakses dua form tugas: <em>Formulir Registrasi Mahasiswa</em> dan
     <em>Reservation Hotel Room</em>. Klik tombol di bawah untuk membuka halaman masing-masing.</p>
 </header>
 

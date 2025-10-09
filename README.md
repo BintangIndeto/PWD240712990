@@ -58,7 +58,7 @@
     </ul>
     <div class="actions">
       <!-- Link ke file di GitHub Pages / repo -->
-      <a class="btn primary" href="docs/soal1/act5_form_12990.xml">Buka Tugas 1</a>
+      <a class="btn primary" href="[docs/soal1/act5_form_12990.xml](https://github.com/BintangIndeto/PWD240712990/blob/main/act5_form_12990.xml)">Buka Tugas 1</a>
       <!-- Opsional: link ke kode di GitHub (ganti USERNAME & REPO) -->
       <a class="btn" href="https://github.com/USERNAME/REPO/blob/main/docs/soal1/act5_form_12990.xml" target="_blank" rel="noopener">Lihat Kode</a>
     </div>
@@ -72,7 +72,7 @@
       <li>Data personal, kamar, bed type, breakfast</li>
     </ul>
     <div class="actions">
-      <a class="btn primary" href="docs/act5_formHotel2_12990.xml">Buka Tugas 2</a>
+      <a class="btn primary"[ href="docs/act5_formHotel2_12990.xml](https://github.com/BintangIndeto/PWD240712990/blob/main/act5_formHotel2_12990.xml)">Buka Tugas 2</a>
       <a class="btn" href="https://github.com/USERNAME/REPO/blob/main/docs/act5_formHotel2_12990.xml" target="_blank" rel="noopener">Lihat Kode</a>
     </div>
   </section>

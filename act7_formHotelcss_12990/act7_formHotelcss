@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+form-reservasi {
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+form-reservasi h2 {
+    text-align: center;
+    color: #00796b;
+}
+fieldset {
+    border: 1px solid #b2dfdb;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+legend {
+    font-weight: bold;
+    color: #004d40;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333333;
+}
+input, select {
+    width: 100%;
+    padding: 6px;
+    margin-bottom: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+}
+button {
+    margin-top:15px;
+    width: 100%;
+    padding: 10px;
+    background-color: #00796b;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+button:hover {
+    background-color: #004d40;
+}
